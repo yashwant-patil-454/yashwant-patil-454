@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Yashwant Patil, a Java Backend Developer with 3+ years of experience in designing and developing scalable microservices using Java, Spring Boot, Spring MVC, and Spring Cloud. I specialize in building high-performance RESTful APIs and implementing secure authentication mechanisms using JWT, OAuth2, and Spring Security. 
+I am Yashwant Patil, a Java Full Stack Developer with 3+ years of experience in designing and developing scalable microservices using Java, Spring Boot, Spring MVC, and Spring Cloud. I specialize in building high-performance RESTful APIs and implementing secure authentication mechanisms using JWT, OAuth2, and Spring Security. 
 
 I have strong experience in database design and optimization using JPA/Hibernate with SQL Server and MySQL. My expertise also includes asynchronous messaging using Azure Service Bus, transaction management, and developing reliable backend services in distributed systems. 
 
